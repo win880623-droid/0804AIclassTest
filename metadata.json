@@ -1,0 +1,6 @@
+{
+  "name": "AI 靈籤解籤系統",
+  "description": "由 AI 操控的靈籤問卜系統，輸入問題即時生成專屬詩籤、歷史典故與多維度深度解析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
